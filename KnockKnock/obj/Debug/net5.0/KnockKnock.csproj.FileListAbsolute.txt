@@ -1,0 +1,16 @@
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.exe
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.deps.json
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.runtimeconfig.json
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.runtimeconfig.dev.json
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.dll
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\bin\Debug\net5.0\ref\KnockKnock.dll
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.pdb
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.csprojAssemblyReference.cache
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.AssemblyInfoInputs.cache
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.AssemblyInfo.cs
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.csproj.CoreCompileInputs.cache
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.dll
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\ref\KnockKnock.dll
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.pdb
+C:\dev\Improving\Practice\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.genruntimeconfig.cache
